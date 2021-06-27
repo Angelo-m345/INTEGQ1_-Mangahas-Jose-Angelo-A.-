@@ -1,0 +1,12 @@
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\bin\Debug\net5.0\FCMSDataLayer.deps.json
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\bin\Debug\net5.0\FCMSDataLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\bin\Debug\net5.0\ref\FCMSDataLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\bin\Debug\net5.0\FCMSDataLayer.pdb
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\FCMSDataLayer.csprojAssemblyReference.cache
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\FCMSDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\FCMSDataLayer.AssemblyInfoInputs.cache
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\FCMSDataLayer.AssemblyInfo.cs
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\FCMSDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\FCMSDataLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\ref\FCMSDataLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSDataLayer\obj\Debug\net5.0\FCMSDataLayer.pdb

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FCMSUserInterface/1.0.0": {
+        "dependencies": {
+          "FCMSBusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "FCMSUserInterface.dll": {}
+        }
+      },
+      "FCMSBusinessLayer/1.0.0": {
+        "dependencies": {
+          "FCMSDataLayer": "1.0.0"
+        },
+        "runtime": {
+          "FCMSBusinessLayer.dll": {}
+        }
+      },
+      "FCMSDataLayer/1.0.0": {
+        "runtime": {
+          "FCMSDataLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FCMSUserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FCMSBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FCMSDataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

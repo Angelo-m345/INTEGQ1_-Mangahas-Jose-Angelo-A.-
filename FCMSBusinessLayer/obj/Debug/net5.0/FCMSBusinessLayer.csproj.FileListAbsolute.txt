@@ -1,0 +1,15 @@
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\bin\Debug\net5.0\FCMSBusinessLayer.deps.json
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\bin\Debug\net5.0\FCMSBusinessLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\bin\Debug\net5.0\ref\FCMSBusinessLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\bin\Debug\net5.0\FCMSBusinessLayer.pdb
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\bin\Debug\net5.0\FCMSDataLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\bin\Debug\net5.0\FCMSDataLayer.pdb
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.csprojAssemblyReference.cache
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.AssemblyInfo.cs
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.csproj.CopyComplete
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\ref\FCMSBusinessLayer.dll
+C:\Users\Ajo Mangahas\source\repos\IntegQuiz1FCMS_Mangahas\FCMSBusinessLayer\obj\Debug\net5.0\FCMSBusinessLayer.pdb
